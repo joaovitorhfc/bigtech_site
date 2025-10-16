@@ -1,0 +1,61 @@
+body{
+    background-color:#ffffff ;
+    background-image: url('fundo-de-textura-hexadecimal-para-rede_23-2150080754.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Adicionado para garantir o efeito completo */
+
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 36px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: 500;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff ;
+}
+
+label{
+    text-align: center;
+}
+
+input{
+    border-radius: 15px;
+}
+
+.meu-botao {
+    background-color: #2f03aa;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 0; 
+    cursor: pointer;
+    border-radius: 8px;
+}
