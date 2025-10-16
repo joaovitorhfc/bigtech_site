@@ -1,0 +1,9 @@
+body{
+    background-color:#ffffff ;
+    background-image: url('fundo-de-textura-hexadecimal-para-rede_23-2150080754.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Adicionado para garantir o efeito completo */
+
+}
